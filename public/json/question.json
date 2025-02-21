@@ -1,0 +1,84 @@
+
+[
+    {
+    
+    "mcq":[
+    {
+    "questionText": "Q: Which planet is the closest to the Sun?",
+    "answersOptions": [
+      { "answerText": "Venus", "isCorrect": false },
+      {"answerText": "Mercury", "isCorrect": true },
+      { "answerText": "Earth", "isCorrect": false },
+      { "answerText": "Mars", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Q:Which data structure organizes items in a First-In, First-Out (FIFO) manner?",
+    "answersOptions": [
+      { "answerText": "Stack", "isCorrect": false },
+      {"answerText": "Queue", "isCorrect": true },
+      { "answerText": "Tree", "isCorrect": false },
+      { "answerText": "Graph", "isCorrect": false }
+    ]
+  
+  },
+  {
+    "questionText": "Q:Which of the following is primarily used for structuring web pages?",
+    "answersOptions": [
+      { "answerText": "Python", "isCorrect": false },
+      {"answerText": "Java", "isCorrect": false },
+      { "answerText": "HTML", "isCorrect": true },
+      { "answerText": "C++", "isCorrect": false }
+    ]
+  
+  },
+  {
+    "questionText": "Q: Which chemical symbol stands for Gold?",
+    "answersOptions": [
+      { "answerText": "Au", "isCorrect": true },
+      {"answerText": "Gd", "isCorrect": false },
+      { "answerText": "Ag", "isCorrect": false },
+      { "answerText": "Pt", "isCorrect": false }
+    ]
+  
+  },
+  {
+    "questionText": "Q: Which of these processes is not typically involved in refining petroleum",
+    "answersOptions": [
+      { "answerText": "Fractional distillation", "isCorrect": false },
+      {"answerText": "Cracking", "isCorrect": false },
+      { "answerText": "Polymerization", "isCorrect": false },
+      { "answerText": "Filtration", "isCorrect": true }
+    ]
+  }
+
+
+
+],
+"integer":[
+    {
+      "questionText":"Q:What is the value of 12 + 28?",
+      "answerText":40
+    },
+    {
+        "questionText":"Q:How many states are there in the United States?",
+        "answerText":50
+      },
+      {
+        "questionText":"Q:In which year was the Declaration of Independence signed?",
+        "answerText":1776
+      },
+      {
+         "questionText":"Q:What is the value of pi rounded to the nearest intger?",
+        "answerText":3
+      },
+      {
+        "questionText":"If a car travels at 60 mph for 2 hours, how many miles does it travel?",
+        "answerText":120
+      }
+
+]
+
+}
+  
+]

@@ -1,0 +1,40 @@
+
+{
+
+   "todo": [
+        {
+            "type":"MCQ Based",
+            "description":"Attempt quiz to enhance and test you learning",
+            "progress":"3/5",
+            "color":"text-red-500",
+            "bg":"bg-pink-500"
+        },
+        {
+            "type":"Integer Based",
+            "description":"Attempt quiz to enhance and test you learning",
+            "progress":"3/5",
+            "color":"text-red-500",
+            "bg":"bg-pink-500"
+        }
+    ],
+   
+    "done":[
+        {
+            "type":"MCQ Based",
+            "description":"Attempt quiz to enhance and test you learning",
+            "progress":"3/5",
+            "color":"text-red-500",
+            "bg":"bg-pink-500"
+        },
+        {
+            "type":"Integer Based",
+            "description":"Attempt quiz to enhance and test you learning",
+            "progress":"3/5",
+            "color":"text-red-500",
+            "bg":"bg-pink-500"
+        }
+    ]
+   
+    
+    
+}

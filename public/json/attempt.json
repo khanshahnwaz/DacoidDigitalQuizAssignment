@@ -1,0 +1,138 @@
+[
+  {
+  "questions":[
+    {
+      "questionText": "Q: Which planet is the closest to the Sun?",
+      "answersOptions": [
+        { "answerText": "Venus", "isCorrect": false },
+        {"answerText": "Mercury", "isCorrect": true },
+        { "answerText": "Earth", "isCorrect": false },
+        { "answerText": "Mars", "isCorrect": false }
+      ],
+      "given":"Mercury",
+      "isCorrect":true
+    },
+    
+      {
+        "questionText": "Q:Which data structure organizes items in a First-In, First-Out (FIFO) manner?",
+        "answersOptions": [
+          { "answerText": "Stack", "isCorrect": false },
+          {"answerText": "Queue", "isCorrect": true },
+          { "answerText": "Tree", "isCorrect": false },
+          { "answerText": "Graph", "isCorrect": false }
+        ],
+        "given":"Stack",
+        "isCorrect":false
+      
+      },
+      {
+        "questionText": "Q:Which of the following is primarily used for structuring web pages?",
+        "answersOptions": [
+          { "answerText": "Python", "isCorrect": false },
+          {"answerText": "Java", "isCorrect": false },
+          { "answerText": "HTML", "isCorrect": true },
+          { "answerText": "C++", "isCorrect": false }
+        ],
+        "given":"HTML",
+        "isCorrect":true
+      
+      },
+      {
+        "questionText": "Q: Which chemical symbol stands for Gold?",
+        "answersOptions": [
+          { "answerText": "Au", "isCorrect": true },
+          {"answerText": "Gd", "isCorrect": false },
+          { "answerText": "Ag", "isCorrect": false },
+          { "answerText": "Pt", "isCorrect": false }
+        ],
+        "given":"Au",
+        "isCorrect":true
+      
+      },
+      {
+        "questionText": "Q: Which of these processes is not typically involved in refining petroleum",
+        "answersOptions": [
+          { "answerText": "Fractional distillation", "isCorrect": false },
+          {"answerText": "Cracking", "isCorrect": false },
+          { "answerText": "Polymerization", "isCorrect": false },
+          { "answerText": "Filtration", "isCorrect": true }
+        ],
+        "given":"Cracking",
+        "isCorrect":false
+      
+
+      }
+    
+
+]
+},
+
+
+{
+  "questions":[
+    {
+      "questionText": "Q: Which planet is the closest to the Sun?",
+      "answersOptions": [
+        { "answerText": "Venus", "isCorrect": false },
+        {"answerText": "Mercury", "isCorrect": true },
+        { "answerText": "Earth", "isCorrect": false },
+        { "answerText": "Mars", "isCorrect": false }
+      ],
+      "given":"Mercury",
+      "isCorrect":true
+    },
+    
+      {
+        "questionText": "Q:Which data structure organizes items in a First-In, First-Out (FIFO) manner?",
+        "answersOptions": [
+          { "answerText": "Stack", "isCorrect": false },
+          {"answerText": "Queue", "isCorrect": true },
+          { "answerText": "Tree", "isCorrect": false },
+          { "answerText": "Graph", "isCorrect": false }
+        ],
+        "given":"Stack",
+        "isCorrect":false
+      
+      },
+      {
+        "questionText": "Q:Which of the following is primarily used for structuring web pages?",
+        "answersOptions": [
+          { "answerText": "Python", "isCorrect": false },
+          {"answerText": "Java", "isCorrect": false },
+          { "answerText": "HTML", "isCorrect": true },
+          { "answerText": "C++", "isCorrect": false }
+        ],
+        "given":"HTML",
+        "isCorrect":true
+      
+      },
+      {
+        "questionText": "Q: Which chemical symbol stands for Gold?",
+        "answersOptions": [
+          { "answerText": "Au", "isCorrect": true },
+          {"answerText": "Gd", "isCorrect": false },
+          { "answerText": "Ag", "isCorrect": false },
+          { "answerText": "Pt", "isCorrect": false }
+        ],
+        "given":"Au",
+        "isCorrect":true
+      
+      },
+      {
+        "questionText": "Q: Which of these processes is not typically involved in refining petroleum",
+        "answersOptions": [
+          { "answerText": "Fractional distillation", "isCorrect": false },
+          {"answerText": "Cracking", "isCorrect": false },
+          { "answerText": "Polymerization", "isCorrect": false },
+          { "answerText": "Filtration", "isCorrect": true }
+        ],
+        "given":"Cracking",
+        "isCorrect":false
+      
+
+      }
+    
+
+]
+}
+]
